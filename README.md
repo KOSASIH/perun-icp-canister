@@ -4,6 +4,7 @@
 
 [![CI Status](https://github.com/perun-network/perun-icp-canister/actions/workflows/rust.yml/badge.svg)](https://github.com/perun-network/perun-icp-canister/actions/workflows/rust.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202-blue)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Codacy Security Scan](https://github.com/KOSASIH/perun-icp-canister/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/perun-icp-canister/actions/workflows/codacy.yml)
 
 # Perun ICP Canister
 
